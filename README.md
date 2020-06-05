@@ -1,8 +1,8 @@
-##Projet d'application
+## Projet d'application Web
 
-Ce projet correspond à un développement réalisé dans le cadre de l'enseignment INF-TC3 en première année de l'Ecole Central de Lyon par:
+Ce projet correspond à un développement réalisé dans le cadre de l'enseignement INF-TC3 en première année de l'Ecole Centrale de Lyon
 
-- Raymod Deubaze
+- Raymond Deubaze
 - Ginette Ringard
-- Séraphin Lampin
+- Séraphin Lampion
 - Jean Aymard
