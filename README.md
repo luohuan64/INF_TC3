@@ -5,5 +5,5 @@ Ce projet correspond à un développement réalisé dans le cadre de l'enseignem
 - Myla Arab
 - Arthur de Lara
 - Huan Luo
-- Gabriela Costa
+- Gabriela Costa Salada
 - Lingyu Wang
